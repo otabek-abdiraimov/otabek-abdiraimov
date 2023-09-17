@@ -10,4 +10,4 @@ This is my telegram account ➡️ <a href="https://t.me/abdiraimov2009"><img sr
 
 ### Languages I and tools I work with:
 
-<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkm8GpcnmdkA3C--TprF7WQAGtdIiTqYCZSPad3IR_kA&s" height="25px"><code/>
+<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkm8GpcnmdkA3C--TprF7WQAGtdIiTqYCZSPad3IR_kA&s" height="25px"></code>
