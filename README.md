@@ -1,1 +1,1 @@
-### 👋 Hello, I am Otabek Abdiraimov <div style="width:100%;height:0;padding-bottom:50%;position:relative;"><iframe src="https://giphy.com/embed/VRjdLIbuVPza1JhNaj" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/muslim-salam-assalamualaikum-VRjdLIbuVPza1JhNaj">via GIPHY</a></p>
+### 👋 Hello, I am Otabek Abdiraimov <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="30" />
