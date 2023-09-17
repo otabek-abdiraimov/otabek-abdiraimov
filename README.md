@@ -18,3 +18,22 @@ This is my telegram account ➡️ <a href="https://t.me/abdiraimov2009"><img sr
 <code><img src="https://e7.pngegg.com/pngimages/439/345/png-clipart-bootstrap-logo-thumbnail-tech-companies.png" height="25px"></code>
 <code><img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" height="25px"></code>
 <code><img src="https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png" height="25px"></code>
+
+<br />
+
+-📍 &nbsp; Current location Kashkadarya, Uzbekistan
+-✉ &nbsp; Ask anything you want and I try to solve your question.
+-✉ &nbsp; You can reach me: [@abdiraimov2009](https://t.me/abdiraimov2009)
+
+
+
+
+
+
+
+
+
+
+
+
+
