@@ -23,7 +23,7 @@ This is my telegram account ➡️ <a href="https://t.me/abdiraimov2009"><img sr
 
 -📍 &nbsp; Current location Kashkadarya, Uzbekistan
 -✉ &nbsp; Ask anything you want and I try to solve your question.
--✉ &nbsp; You can reach me: [@abdiraimov2009](https://t.me/abdiraimov2009)
+-✉ &nbsp; You can reach me: [@abdiraimov2009](https://t.me/otabek_abdiraimov)
 
 
 
