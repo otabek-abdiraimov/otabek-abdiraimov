@@ -5,7 +5,7 @@ I am junior frontend developer <img src="https://media.giphy.com/media/RJzm826vu
 Currently, I am learning FrontEnd development <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30px" />
 
 
-This is my telegram account ➡️ <a href="https://t.me/abdiraimov2009"><img src="https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif" width="30px"></a> <br/>
+This is my telegram account ➡️ <a href="https://t.me/otabek_abdiraimov"><img src="https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif" width="30px"></a> <br/>
 
 ### Languages I and tools I work with:
 
