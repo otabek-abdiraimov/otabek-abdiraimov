@@ -4,7 +4,7 @@
 I'm a Javascript Engineer and I am 15. 
 
 I like to create startups.
-## Other Common Github Profile Sections
+## Brief information about me
 👩‍💻 I'm currently working on learning how to build startups
 
 🧠 I'm currently learning ReactJS
