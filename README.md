@@ -22,7 +22,7 @@ Javascript, HTML, CSS, ReactJS, NextJS, VueJS, NuxtJS, TailwindCss, Bootstrap, S
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/otabek-abdiraimov)
 
-![X (formerly Twitter) Follow](https://img.shields.io/follow/abdiraimov_)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/abdiraimov_)
 
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&=logo=telegram&logoColor=white)](https://t.me/otabek_abdiraimov)
 
