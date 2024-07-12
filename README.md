@@ -20,11 +20,11 @@ I like to create startups.
 Javascript, HTML, CSS, ReactJS, NextJS, VueJS, NuxtJS, TailwindCss, Bootstrap, Sass/SCSS, Shadcn/ui, ChakraUI.
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/otabek_abdiraimov)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/otabek-abdiraimov)
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/abdiraimov_)
+![X (formerly Twitter) Follow](https://img.shields.io/?style=for-the-badge&=twitter/follow/abdiraimov_)
 
-[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/otabek_abdiraimov)
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&=logo=telegram&logoColor=white)](https://t.me/otabek_abdiraimov)
 
 
 ## Hobbies
